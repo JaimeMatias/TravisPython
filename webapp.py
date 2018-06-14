@@ -15,7 +15,7 @@ HTML = """
         <meta name="author" content="Michal Dyzma">
     </head>
     <body>
-        <h1>Home Page </h1>
+        <h1>Home Page 2</h1>
 
     </body>
 </html>
