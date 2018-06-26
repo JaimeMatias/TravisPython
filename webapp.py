@@ -9,12 +9,10 @@ HTML = """
     <head>
         <title>Home | TravisCI</title>
         <meta charset="utf-8">
-        <link rel="stylesheet" href="index3.css">
+        <link rel= "stylesheet" type= "text/css" href= "{{ url_for('static',filename='index3.css') }}">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="description" content="Social media analytic tool">
-        <meta name="author" content="Michal Dyzma">
-    </head>
+        </head>
     <body>
         <h1>Integracion Continua grupo UP653</h1>
 
