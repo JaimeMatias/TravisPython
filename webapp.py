@@ -16,7 +16,7 @@ HTML = """
         <meta name="author" content="Michal Dyzma">
     </head>
     <body>
-        <h1>Home Page 2</h1>
+        <h1>Integracion Continua grupo UP653</h1>
 
     </body>
 </html>
