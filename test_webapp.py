@@ -12,7 +12,7 @@ class HomeViewTest(unittest.TestCase):
 
     def test_home_page(self):
         home = self.app.get('/')
-        self.assertIn('Integracion Continua UP', str(home.data))
+        self.assertIn('Integracion Continua grupo UP', str(home.data))
 
 
 if __name__ == "__main__":
